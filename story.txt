@@ -1,2 +1,1 @@
-This is the story.
-Let's make some changes. I am the master.
+Slave has made this change.
